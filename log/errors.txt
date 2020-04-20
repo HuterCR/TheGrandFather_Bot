@@ -1,0 +1,7074 @@
+[Sunday, 03 September 2017 at 00:35:59]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Sunday, 03 September 2017 at 00:36:19]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Sunday, 03 September 2017 at 00:37:45]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Sunday, 03 September 2017 at 00:42:26]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /astats
+
+[Sunday, 03 September 2017 at 01:12:32]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /astats
+
+[Sunday, 03 September 2017 at 01:46:28]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /astats
+
+[Sunday, 03 September 2017 at 12:56:21]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /astats
+
+[Sunday, 03 September 2017 at 12:57:56]
+./methods.lua:486: attempt to concatenate local 'chat_id' (a table value)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /acheckgroups
+
+[Sunday, 03 September 2017 at 13:49:56]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 13:50:00]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 27840971
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 13:50:17]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 13:50:18]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 13:50:19]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 13:50:21]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 13:50:40]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 27840971
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 14:12:11]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 14:12:19]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: !scan
+
+[Sunday, 03 September 2017 at 17:42:12]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 17:51:43]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Sunday, 03 September 2017 at 20:34:22]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Monday, 04 September 2017 at 22:46:38]
+plugins/comprimirlink.lua:3: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001149418155
+TEXT: /comprimir https://apple5x1.com
+
+[Monday, 04 September 2017 at 23:39:02]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got boolean)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: ###cb:userbutton:banuser:27840971
+
+[Tuesday, 05 September 2017 at 12:17:00]
+utilities.lua:132: attempt to index local 'msg' (a nil value)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /ainit
+
+[Tuesday, 05 September 2017 at 12:17:25]
+utilities.lua:132: attempt to index local 'msg' (a nil value)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /ainit
+
+[Tuesday, 05 September 2017 at 12:31:28]
+plugins/antispam.lua:27: attempt to call field 'deleteMessage' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001149418155
+TEXT: ıllıllı ⓔⓜⓐⓝⓤⓔⓛ ıllıllı ✝🅿️ℹ️🅰:
+Canal de TheGrandFatherBot
+Información sobre el bot @TheGrandFatherBot
+https://t.me/ModeradorTPYA_Channel
+
+[Tuesday, 05 September 2017 at 12:50:31]
+plugins/antispam.lua:27: attempt to call field 'deleteMessage' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001056977775
+TEXT: https://t.me/joinchat/DutLkUB8MFt5hpOoFMmJDg
+
+[Tuesday, 05 September 2017 at 14:05:31]
+plugins/antispam.lua:16: attempt to call field 'deleteMessage' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001149418155
+TEXT: https://t.me/joinchat/DutLkUB8MFt5hpOdjdnoFMmJDg
+
+[Tuesday, 05 September 2017 at 14:25:39]
+plugins/mod.lua:66: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /promote
+
+[Tuesday, 05 September 2017 at 14:28:38]
+plugins/mod.lua:66: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /promote @EveryBodyOnHp
+
+[Tuesday, 05 September 2017 at 14:28:39]
+plugins/mod.lua:66: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /promote @EveryBodyOnHp
+
+[Tuesday, 05 September 2017 at 14:29:22]
+plugins/mod.lua:146: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /modlist
+
+[Tuesday, 05 September 2017 at 19:10:35]
+plugins/mod.lua:146: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001149418155
+TEXT: /modlist
+
+[Tuesday, 05 September 2017 at 19:10:39]
+plugins/mod.lua:66: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 3795110
+CHAT: -1001149418155
+TEXT: /promote
+
+[Tuesday, 05 September 2017 at 19:11:42]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR wrong number of arguments for 'hdel' command
+
+
+FROM: 3795110
+CHAT: -1001149418155
+TEXT: /admin
+
+[Tuesday, 05 September 2017 at 19:12:40]
+plugins/mod.lua:146: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 3795110
+CHAT: -1001149418155
+TEXT: /modlist
+
+[Tuesday, 05 September 2017 at 19:14:32]
+plugins/mod.lua:66: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /promote
+
+[Tuesday, 05 September 2017 at 19:14:51]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR wrong number of arguments for 'hdel' command
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /admin
+
+[Thursday, 07 September 2017 at 17:07:00]
+utilities.lua:132: attempt to index local 'msg' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Thursday, 07 September 2017 at 17:07:10]
+utilities.lua:132: attempt to index local 'msg' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Thursday, 07 September 2017 at 17:14:43]
+utilities.lua:132: attempt to index local 'msg' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001108450230
+TEXT: /ainit
+
+[Thursday, 07 September 2017 at 17:16:32]
+plugins/service.lua:200: unexpected symbol near '*'
+
+
+FROM: 250301329
+CHAT: -1001108450230
+TEXT: /ainit
+
+[Thursday, 07 September 2017 at 17:16:38]
+plugins/service.lua:200: unexpected symbol near '*'
+
+
+FROM: 250301329
+CHAT: -1001108450230
+TEXT: /ainit
+
+[Thursday, 07 September 2017 at 17:18:20]
+plugins/service.lua:226: unexpected symbol near ']'
+
+
+FROM: 250301329
+CHAT: -1001108450230
+TEXT: /ainit
+
+[Thursday, 07 September 2017 at 17:19:44]
+plugins/service.lua:226: unexpected symbol near ']'
+
+
+FROM: 250301329
+CHAT: -1001108450230
+TEXT: /ainit
+
+[Thursday, 07 September 2017 at 17:27:32]
+utilities.lua:291: attempt to index local 'text' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001108450230
+TEXT: /enable didk
+
+[Thursday, 07 September 2017 at 17:28:02]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001108450230
+TEXT: /astats
+
+[Thursday, 07 September 2017 at 17:33:27]
+plugins/admin.lua:257: attempt to index field 'luarun' (a nil value)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /alua
+
+[Thursday, 07 September 2017 at 17:36:57]
+plugins/admin.lua:257: attempt to index field 'luarun' (a nil value)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /alua
+
+[Thursday, 07 September 2017 at 17:39:05]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR wrong number of arguments for 'select' command
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /adb info
+
+[Thursday, 07 September 2017 at 17:39:33]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR wrong number of arguments for 'select' command
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /adb reset
+
+[Thursday, 07 September 2017 at 17:39:56]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR wrong number of arguments for 'select' command
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /adb select
+
+[Friday, 08 September 2017 at 18:10:55]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 289606250
+CHAT: -1001101463297
+TEXT: !scan
+
+[Friday, 08 September 2017 at 20:43:32]
+plugins/spamgbanner.lua:33: syntax error near 'ID'
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /gbanspam 340487995
+
+[Friday, 08 September 2017 at 20:48:15]
+plugins/spamgbanner.lua:70: syntax error near 'ID'
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Friday, 08 September 2017 at 22:06:49]
+languages.lua:80: '}' expected (to close '{' at line 63) near 'info'
+
+
+FROM: 27840971
+CHAT: -1001081880667
+TEXT: /ainit
+
+[Saturday, 09 September 2017 at 21:38:41]
+plugins/hutercr.lua:74: unexpected symbol near <eof>
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Saturday, 09 September 2017 at 21:54:31]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Sunday, 10 September 2017 at 06:02:52]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 289606250
+CHAT: -1001101463297
+TEXT: !scan
+
+[Sunday, 10 September 2017 at 14:29:31]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res @EveryBodyOnHp
+
+[Sunday, 10 September 2017 at 14:29:55]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res wjs
+
+[Monday, 11 September 2017 at 17:35:17]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got nil)
+
+
+FROM: 272348542
+CHAT: 272348542
+TEXT: /welcome WELCOME  to $title, How are you $username !? I hope I can help you. Sorry for my bad English. Hablo Espanol
+
+[Monday, 11 September 2017 at 17:36:29]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got nil)
+
+
+FROM: 272348542
+CHAT: 272348542
+TEXT: /welcome
+
+[Monday, 11 September 2017 at 17:36:42]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got nil)
+
+
+FROM: 272348542
+CHAT: 272348542
+TEXT: /welcome WELCOME  to $title, How are you $username !? I hope I can help you. Sorry for my bad English. Hablo Espanol
+
+[Wednesday, 13 September 2017 at 18:26:43]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 289606250
+CHAT: -1001101463297
+TEXT: !scan
+
+[Thursday, 14 September 2017 at 13:44:03]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 289606250
+CHAT: -1001101463297
+TEXT: !scan
+
+[Friday, 15 September 2017 at 15:07:40]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 396304927
+CHAT: -1001146297748
+TEXT: ###added
+
+[Friday, 15 September 2017 at 15:19:42]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 303826439
+CHAT: -1001130137889
+TEXT: ###added
+
+[Friday, 15 September 2017 at 15:23:53]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 13384065
+CHAT: -1001142651462
+TEXT: ###added
+
+[Friday, 15 September 2017 at 15:41:31]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 204168416
+CHAT: -1001146297748
+TEXT: ###added
+
+[Friday, 15 September 2017 at 15:51:12]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 294030617
+CHAT: -1001146297748
+TEXT: ###added
+
+[Friday, 15 September 2017 at 16:59:34]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 368610334
+CHAT: -1001106921696
+TEXT: ###added
+
+[Friday, 15 September 2017 at 17:32:59]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 342962878
+CHAT: -1001130137889
+TEXT: ###added
+
+[Friday, 15 September 2017 at 17:49:20]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 271789720
+CHAT: -1001101515280
+TEXT: ###added
+
+[Friday, 15 September 2017 at 18:08:14]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 399846860
+CHAT: -1001146297748
+TEXT: ###added
+
+[Friday, 15 September 2017 at 18:13:19]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 271789720
+CHAT: -1001101515280
+TEXT: ###added
+
+[Friday, 15 September 2017 at 18:36:28]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 422794293
+CHAT: -1001146297748
+TEXT: ###added
+
+[Friday, 15 September 2017 at 19:31:22]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 271789720
+CHAT: -1001101515280
+TEXT: ###added
+
+[Friday, 15 September 2017 at 19:35:51]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 370322473
+CHAT: -1001085476645
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:01:57]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 271789720
+CHAT: -1001101515280
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:07:21]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 271789720
+CHAT: -1001101515280
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:08:04]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 271789720
+CHAT: -1001101515280
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:12:55]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 11065484
+CHAT: -1001103153416
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:20:15]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 335432765
+CHAT: -1001084340701
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:33:49]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 328765287
+CHAT: -1001146297748
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:35:08]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 224275082
+CHAT: -1001084340701
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:44:48]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 255260473
+CHAT: -1001084340701
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:49:14]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 345210311
+CHAT: -1001117322937
+TEXT: ###added
+
+[Friday, 15 September 2017 at 20:55:53]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 391394495
+CHAT: -1001073045148
+TEXT: ###added
+
+[Friday, 15 September 2017 at 21:06:49]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 425294322
+CHAT: -1001101463297
+TEXT: ###added
+
+[Friday, 15 September 2017 at 21:48:06]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 320649653
+CHAT: -1001071541329
+TEXT: ###added
+
+[Friday, 15 September 2017 at 22:44:39]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 186943147
+CHAT: -1001103153416
+TEXT: ###added
+
+[Friday, 15 September 2017 at 22:45:39]
+plugins/service.lua:60: attempt to call global 'make_text' (a string value)
+
+
+FROM: 406442526
+CHAT: -1001146297748
+TEXT: ###added
+
+[Sunday, 17 September 2017 at 10:47:43]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got nil)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /aping redis
+
+[Sunday, 17 September 2017 at 10:48:09]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /astats
+
+[Sunday, 17 September 2017 at 17:01:27]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astats
+
+[Monday, 18 September 2017 at 13:35:02]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /res @HuterCR
+
+[Monday, 18 September 2017 at 13:51:43]
+plugins/help.lua:90: unexpected symbol near '}'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Monday, 18 September 2017 at 13:51:49]
+plugins/help.lua:90: unexpected symbol near '}'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Monday, 18 September 2017 at 13:52:53]
+plugins/help.lua:90: unexpected symbol near '}'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Monday, 18 September 2017 at 13:55:10]
+plugins/help.lua:91: unexpected symbol near 'return'
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /ainit
+
+[Monday, 18 September 2017 at 14:02:09]
+./methods.lua:314: attempt to concatenate local 'chat_id' (a table value)
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /responder Hola
+
+[Tuesday, 19 September 2017 at 19:16:34]
+plugins/findpedoss.lua:22: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:16:50]
+plugins/findpedoss.lua:22: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:17:59]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 27840971
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:19:44]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:20:24]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 27840971
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:24:14]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:24:50]
+plugins/findpedoss.lua:27: attempt to index global 'sis' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:25:39]
+plugins/findpedoss.lua:42: attempt to call global 'sleep' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:27:06]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /astop
+
+[Tuesday, 19 September 2017 at 19:46:15]
+plugins/findpedoss.lua:4: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 19:58:00]
+plugins/findpedoss.lua:4: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 27840971
+CHAT: -1001101240169
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 21:07:07]
+plugins/findpedoss.lua:4: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 21:40:15]
+./methods.lua:14: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001081880667
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 21:50:32]
+./methods.lua:14: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 22:09:29]
+plugins/findpedoss.lua:4: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Tuesday, 19 September 2017 at 22:22:28]
+plugins/findpedoss.lua:4: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Saturday, 23 September 2017 at 01:22:33]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got nil)
+
+
+FROM: 371987495
+CHAT: 371987495
+TEXT: /welcome
+
+[Sunday, 24 September 2017 at 17:08:14]
+config.lua:159: unexpected symbol near 'local'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Sunday, 24 September 2017 at 17:08:26]
+config.lua:159: unexpected symbol near 'local'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Sunday, 24 September 2017 at 17:09:49]
+config.lua:159: unexpected symbol near 'local'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: false, true)
+   api.editMessageText(msg.chat.id, msg.message_id, 'Ahora el tag estará *'..grep..'* para ti en grupo '..nameg, false, true)
+   return
+  end 
+  if query == 'activarg' then
+  local status = 'enable'
+   db:hset('chat:'..msg.target_id..':settings', 'gmytag', status)
+   grep = status:gsub('^enable$', 'habilitado'):gsub('^disable$', 'deshabilitado')
+   api.editMessageText(msg.target_id, msg.message_id, 'Ahora el tag estará *'..grep..'* para ti Globalmente', false, true) 
+--   api.editMessageText(msg.chat.id, msg.message_id, 'Ahora el tag estará *'..grep..'* para ti Globalmente', false, true)
+   return
+  end
+  if query == 'desactivarg' then
+  local status = 'disable'
+   db:hset('chat:'..msg.target_id..':settings', 'gmytag', status)
+   grep = status:gsub('^enable$', 'habilitado'):gsub('^disable$', 'deshabilitado')
+   api.editMessageText(msg.target_id, msg.message_id, 'Ahora el tag estará *'..grep..'* para ti Globalmente', false, true)
+--   api.editMessageText(msg.chat.id, msg.message_id, 'Ahora el tag estará *'..grep..'* para ti Globalmente', false, true)
+   return
+   end
+  end
+  if blocks[1] == 'tags' then
+  if msg.chat.type == 'private' then
+   api.sendReply(msg, msg.from.first_name..', no puedes activar o desactivar los tags de grupos en el chat privado del bot')
+  else
+   api.sendKeyboard(msg.chat.id, 'Muestra la Opción de activar o desactivar tags o respuestas de tus mensajes en grupos o de manera Global', tag(msg.from.id), true)
+   end
+  end
+  if blocks[1] == 'gmytag' then
+  if not blocks[2]:match('^(enable)$') and not blocks[2]:match('^(disable)$') then
+   api.sendReply(msg, '*ERROR*\nDebe usarse de esta manera:\n/gmytag enable|disable', true)
+   return
+  end
+  local status = blocks[2]
+  local current = db:hget('chat:'..msg.from.id..':settings', 'gmytag')
+  if current == status then
+   grep = status:gsub('^enable$', 'habilitado'):gsub('^disable$', 'deshabilitado')
+   api.sendMessage(msg.chat.id, msg.from.first_name..' Tu estado Global para el tag desde @'..bot.username:mEscape()..' ya estaba *'..grep..'*', true)  
+  else
+   db:hset('chat:'..msg.from.id..':settings', 'gmytag', status)
+   grep = status:gsub('^enable$', 'habilitado'):gsub('^disable$', 'deshabilitado')
+   api.sendMessage(msg.chat.id, msg.from.first_name..' Tu estado Global para el tag desde @'..bot.username:mEscape()..' estará *'..grep..'*', true)
+  end
+ end 
+  if blocks[1] == 'mytag' then
+  if msg.chat.type == 'private' then
+   api.sendReply(msg, msg.from.first_name..', no puedes activar o desactivar los tags de grupos en el chat privado del bot')
+  else
+  if not blocks[2]:match('^(enable)$') and not blocks[2]:match('^(disable)$') then
+   api.sendReply(msg, '*ERROR*\nDebe usarse de esta manera:\n/mytag enable|disable', true)
+   return
+  end
+  local status = blocks[2]
+  local current = db:hget('chat:'..msg.chat.id..':'..msg.from.id..':settings', 'mytag')
+  if current == status then
+   grep = status:gsub('^enable$', 'habilitado'):gsub('^disable$', 'deshabilitado')
+   api.sendMessage(msg.chat.id, 'Tu tag '..msg.from.first_name..' ya estaba *'..grep..'* en grupo '..msg.chat.title, true)
+  else
+   db:hset('chat:'..msg.chat.id..':'..msg.from.id..':settings', 'mytag', status)
+   grep = status:gsub('^enable$', 'habilitado'):gsub('^disable$', 'deshabilitado')
+   api.sendMessage(msg.chat.id, 'Ahora tu Tag '..msg.from.first_name..' estará *'..grep..'* en grupo '..msg.chat.title, true)
+  end
+ end
+end
+return
+end
+
+ return {
+ action = action,
+ on_each_msg = en_cada_mensaje,
+ triggers = triggers,
+}
+
+[Sunday, 24 September 2017 at 17:13:44]
+plugins/tags.lua:47: attempt to concatenate global 'chat_id' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /tags
+
+[Sunday, 24 September 2017 at 17:13:45]
+plugins/tags.lua:47: attempt to concatenate global 'chat_id' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /tags
+
+[Sunday, 24 September 2017 at 17:16:51]
+plugins/tags.lua:47: attempt to concatenate global 'chat_id' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /tags
+
+[Sunday, 24 September 2017 at 17:49:21]
+plugins/tags.lua:47: attempt to concatenate global 'chat_id' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /tags
+
+[Sunday, 24 September 2017 at 17:51:42]
+plugins/tags.lua:47: attempt to concatenate global 'chat_id' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /tags
+
+[Monday, 25 September 2017 at 16:07:44]
+plugins/tags.lua:47: attempt to concatenate global 'chat_id' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: /tags
+
+[Tuesday, 26 September 2017 at 20:17:51]
+/usr/local/share/lua/5.2/ssl/https.lua:65: interrupted!
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: ###cb:!settings
+
+[Wednesday, 27 September 2017 at 17:31:52]
+plugins/findpedoss.lua:4: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 27 September 2017 at 18:28:34]
+/usr/local/share/lua/5.2/ssl/https.lua:65: interrupted!
+
+
+FROM: 374139956
+CHAT: -1001073045148
+TEXT: ###added
+
+[Wednesday, 27 September 2017 at 18:31:38]
+plugins/findpedoss.lua:39: attempt to index global 'roles' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /cp check
+
+[Wednesday, 27 September 2017 at 18:33:08]
+plugins/findpedoss.lua:39: attempt to call global 'is_admin' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /cp check
+
+[Wednesday, 27 September 2017 at 18:35:12]
+plugins/findpedoss.lua:3: attempt to index global 'curl' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /cp check
+
+[Wednesday, 27 September 2017 at 18:54:19]
+plugins/findpedoss.lua:5: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: !scan
+
+[Wednesday, 27 September 2017 at 18:55:46]
+plugins/findpedoss.lua:5: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: !scan
+
+[Wednesday, 27 September 2017 at 18:56:16]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Wednesday, 27 September 2017 at 18:59:01]
+plugins/findpedoss.lua:5: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: !scan
+
+[Wednesday, 27 September 2017 at 19:03:20]
+./methods.lua:21: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: !scan
+
+[Wednesday, 27 September 2017 at 19:09:12]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /astats
+
+[Wednesday, 27 September 2017 at 19:12:44]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /astats
+
+[Wednesday, 27 September 2017 at 22:06:52]
+plugins/cpgbanner.lua:86: syntax error near 'mensaje'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Wednesday, 27 September 2017 at 22:13:09]
+plugins/cpgbanner.lua:85: syntax error near 'mensaje'
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Thursday, 28 September 2017 at 05:04:35]
+utilities.lua:140: attempt to index local 'msg' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Thursday, 28 September 2017 at 05:17:25]
+./methods.lua:327: type 'function' is not supported by JSON.
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: @HuterCR
+
+[Thursday, 28 September 2017 at 06:21:00]
+./methods.lua:21: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Thursday, 28 September 2017 at 15:12:11]
+./methods.lua:16: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: !scan
+
+[Thursday, 28 September 2017 at 15:13:41]
+./methods.lua:16: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: !scan
+
+[Thursday, 28 September 2017 at 16:16:11]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Thursday, 28 September 2017 at 16:20:13]
+./methods.lua:16: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Thursday, 28 September 2017 at 18:10:18]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res 13421
+
+[Thursday, 28 September 2017 at 18:12:50]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: !res @HuterCR
+
+[Thursday, 28 September 2017 at 18:13:04]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res 19293929
+
+[Thursday, 28 September 2017 at 18:13:29]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res -1001101240169
+
+[Thursday, 28 September 2017 at 18:21:56]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res -1001101240169
+
+[Thursday, 28 September 2017 at 18:22:30]
+./methods.lua:16: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Thursday, 28 September 2017 at 18:27:03]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res -1001101240169
+
+[Saturday, 30 September 2017 at 04:44:08]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 188289054
+CHAT: -1001108628160
+TEXT: @Tairoosham
+
+[Saturday, 30 September 2017 at 08:36:22]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 441317232
+CHAT: -1001108628160
+TEXT: @Solito1
+
+[Saturday, 30 September 2017 at 12:42:40]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 5724636
+CHAT: -1001056977775
+TEXT: @HuterCR
+
+[Sunday, 01 October 2017 at 01:19:11]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /astats
+
+[Sunday, 01 October 2017 at 02:12:25]
+utilities.lua:218: attempt to index field '?' (a nil value)
+
+
+FROM: 94487223
+CHAT: -1001096846712
+TEXT: /config@TheGrandFatherBot
+
+[Sunday, 01 October 2017 at 02:15:44]
+./methods.lua:15: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001079631720
+TEXT: /scan
+
+[Sunday, 01 October 2017 at 02:37:29]
+plugins/antispam.lua:31: <eof> expected near 'end'
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /ainit
+
+[Sunday, 01 October 2017 at 11:31:24]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 304211445
+CHAT: -1001051899612
+TEXT: @BlackGoldSoul
+
+[Sunday, 01 October 2017 at 11:38:50]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 304211445
+CHAT: -1001051899612
+TEXT: @BlackGoldSoul
+
+[Sunday, 01 October 2017 at 12:15:32]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 304211445
+CHAT: -1001051899612
+TEXT: @BlackGoldSoul
+
+[Sunday, 01 October 2017 at 14:31:33]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 250301329
+CHAT: -1001112122857
+TEXT: @GUS_94
+
+[Sunday, 01 October 2017 at 19:27:37]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 5724636
+CHAT: -1001056977775
+TEXT: @HuterCR
+
+[Sunday, 01 October 2017 at 19:29:04]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 5724636
+CHAT: -1001056977775
+TEXT: @HuterCR
+
+[Sunday, 01 October 2017 at 22:30:25]
+plugins/tags.lua:44: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 419691426
+CHAT: -1001073045148
+TEXT: @Franco_e
+
+[Monday, 02 October 2017 at 10:19:39]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 302255182
+CHAT: -1001108628160
+TEXT: @Lobalapatrona
+
+[Monday, 02 October 2017 at 13:32:57]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: 250301329
+TEXT: /astats
+
+[Monday, 02 October 2017 at 18:57:41]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 5724636
+CHAT: -1001056977775
+TEXT: @GabyGab
+
+[Monday, 02 October 2017 at 20:10:53]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 48993850
+CHAT: -1001096846712
+TEXT: @Marucaa
+
+[Monday, 02 October 2017 at 20:12:11]
+plugins/comandos.lua:10: unexpected symbol near char(194)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Monday, 02 October 2017 at 20:14:05]
+plugins/comandos.lua:12: unexpected symbol near char(194)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Monday, 02 October 2017 at 20:17:03]
+plugins/comandos.lua:12: unexpected symbol near char(160)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Monday, 02 October 2017 at 20:24:46]
+plugins/comandos.lua:10: unexpected symbol near char(160)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Tuesday, 03 October 2017 at 22:11:11]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 416054521
+CHAT: -1001071541329
+TEXT: @encrypt1
+
+[Tuesday, 03 October 2017 at 22:11:25]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 416054521
+CHAT: -1001071541329
+TEXT: @GUS_94
+
+[Tuesday, 03 October 2017 at 23:08:54]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 413329314
+CHAT: -1001087922100
+TEXT: @Maniako503
+
+[Tuesday, 03 October 2017 at 23:09:04]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 413329314
+CHAT: -1001087922100
+TEXT: @SpecialForcesGOE
+
+[Wednesday, 04 October 2017 at 00:26:34]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 395080627
+CHAT: -1001108628160
+TEXT: @AnastasiaManiaka
+
+[Wednesday, 04 October 2017 at 11:00:31]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 290011597
+CHAT: -1001051899612
+TEXT: @Fran_74
+
+[Wednesday, 04 October 2017 at 11:10:14]
+./methods.lua:341: type 'function' is not supported by JSON.
+
+
+FROM: 188289054
+CHAT: -1001108628160
+TEXT: @RagnarrLothbrokSigurdsson
+
+[Wednesday, 04 October 2017 at 13:44:26]
+./methods.lua:15: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 13:56:42]
+plugins/findpedoss.lua:5: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 14:00:16]
+plugins/findpedoss.lua:5: attempt to call global 'performRequest' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 14:34:55]
+./methods.lua:15: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 16:45:26]
+./methods.lua:19: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 21:21:31]
+./methods.lua:19: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 21:23:07]
+./methods.lua:19: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 21:43:04]
+plugins/findpedoss.lua:23: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 180791241
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 21:50:56]
+plugins/findpedoss.lua:23: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001073045148
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 21:54:27]
+plugins/findpedoss.lua:23: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001073045148
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 22:04:36]
+plugins/findpedoss.lua:23: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 180791241
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 22:06:06]
+plugins/findpedoss.lua:23: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 180791241
+CHAT: -1001101240169
+TEXT: /scan
+
+[Wednesday, 04 October 2017 at 22:08:04]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 27840971
+CHAT: -1001101240169
+TEXT: /astats
+
+[Wednesday, 04 October 2017 at 22:08:26]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 27840971
+CHAT: -1001101240169
+TEXT: /res @EveryBodyOnHp
+
+[Wednesday, 04 October 2017 at 22:09:24]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Wednesday, 04 October 2017 at 22:09:29]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 180791241
+CHAT: -1001101240169
+TEXT: /astats
+
+[Wednesday, 04 October 2017 at 22:12:37]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Thursday, 05 October 2017 at 10:11:05]
+plugins/comandos.lua:12: unexpected symbol near char(160)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /plugins enable comandos
+
+[Thursday, 05 October 2017 at 10:13:02]
+plugins/comandos.lua:12: unexpected symbol near char(160)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Thursday, 05 October 2017 at 10:13:09]
+plugins/comandos.lua:12: unexpected symbol near char(160)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Thursday, 05 October 2017 at 10:18:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: @Webrom
+
+[Thursday, 05 October 2017 at 10:22:54]
+plugins/comprimirlink.lua:3: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /comprimir http://www.tpya-estudio.ga
+
+[Thursday, 05 October 2017 at 10:25:29]
+plugins/comprimirlink.lua:3: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /comprimir http://www.tpya-estudio.ga
+
+[Thursday, 05 October 2017 at 10:42:21]
+plugins/linkshp.lua:3: attempt to index global 'roles' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /linkshp
+
+[Thursday, 05 October 2017 at 10:43:47]
+plugins/linkshp.lua:3: attempt to call global 'is_admin' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /linkshp
+
+[Thursday, 05 October 2017 at 10:54:16]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res @EveryBodyOnHp
+
+[Thursday, 05 October 2017 at 10:54:56]
+plugins/res.lua:4: attempt to index global 'https' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /res 27840971
+
+[Thursday, 05 October 2017 at 10:55:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: @Webrom
+
+[Thursday, 05 October 2017 at 11:39:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 127007675
+CHAT: -1001102666362
+TEXT: @DegameEnPas
+
+[Thursday, 05 October 2017 at 15:59:20]
+plugins/waze.lua:19: 'end' expected (to close 'function' at line 3) near <eof>
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Thursday, 05 October 2017 at 19:37:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 395732960
+CHAT: -1001108628160
+TEXT: @RIVAS_503
+
+[Thursday, 05 October 2017 at 22:05:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @encrypt1
+
+[Thursday, 05 October 2017 at 22:43:37]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 48993850
+CHAT: -1001096846712
+TEXT: @REIDIOMAN
+
+[Friday, 06 October 2017 at 11:33:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 180791241
+CHAT: -1001101240169
+TEXT: @HuterCR
+
+[Friday, 06 October 2017 at 13:05:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 400458274
+CHAT: -1001073045148
+TEXT: @Realeza
+
+[Friday, 06 October 2017 at 20:01:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 94487223
+CHAT: -1001096846712
+TEXT: @Siempre_tuya
+
+[Friday, 06 October 2017 at 20:07:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 133182782
+CHAT: -1001096846712
+TEXT: @REIDIOMAN
+
+[Friday, 06 October 2017 at 20:07:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 133182782
+CHAT: -1001096846712
+TEXT: @REIDIOMAN
+
+[Friday, 06 October 2017 at 20:07:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 133182782
+CHAT: -1001096846712
+TEXT: @REIDIOMAN
+
+[Saturday, 07 October 2017 at 02:24:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 349189009
+CHAT: -1001130137889
+TEXT: @Jorge_barba
+
+[Saturday, 07 October 2017 at 18:18:17]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @EzeEsteche98
+
+[Sunday, 08 October 2017 at 01:30:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 13384065
+CHAT: -1001142651462
+TEXT: @fontalvokevin
+
+[Sunday, 08 October 2017 at 09:27:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @encrypt1
+
+[Sunday, 08 October 2017 at 10:19:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 232718358
+CHAT: -1001071541329
+TEXT: @GUS_94
+
+[Sunday, 08 October 2017 at 14:27:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 322895299
+CHAT: -1001121000052
+TEXT: @Marquinho90
+
+[Monday, 09 October 2017 at 17:14:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @Juvexx21
+
+[Monday, 09 October 2017 at 21:42:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @KedwinRoyale
+
+[Wednesday, 11 October 2017 at 18:20:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @KedwinRoyale
+
+[Wednesday, 11 October 2017 at 20:37:40]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: @Webrom
+
+[Friday, 13 October 2017 at 08:52:25]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 471212318
+CHAT: -1001108628160
+TEXT: @TENGUERECHE
+
+[Friday, 13 October 2017 at 09:18:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 149591462
+CHAT: -1001071541329
+TEXT: @GUS_94
+
+[Friday, 13 October 2017 at 09:53:40]
+./methods.lua:19: attempt to index global 'curl_context' (a nil value)
+
+
+FROM: 180791241
+CHAT: -1001101240169
+TEXT: /scan
+
+[Friday, 13 October 2017 at 10:03:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @Fresi28
+
+[Friday, 13 October 2017 at 12:27:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 290011597
+CHAT: -1001051899612
+TEXT: @HatCliff
+
+[Friday, 13 October 2017 at 20:54:10]
+utilities.lua:224: attempt to index field '?' (a nil value)
+
+
+FROM: 251152214
+CHAT: -1001101515280
+TEXT: /config
+
+[Saturday, 14 October 2017 at 15:17:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @Jashinn
+
+[Saturday, 14 October 2017 at 19:08:21]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @Hachlouw
+
+[Saturday, 14 October 2017 at 19:08:38]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @Hachlouw
+
+[Saturday, 14 October 2017 at 19:19:54]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @KevingomezBv
+
+[Saturday, 14 October 2017 at 20:03:23]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Saturday, 14 October 2017 at 20:11:29]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Saturday, 14 October 2017 at 21:48:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 161725206
+CHAT: -1001108628160
+TEXT: @Suit08
+
+[Sunday, 15 October 2017 at 07:26:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 188289054
+CHAT: -1001108628160
+TEXT: @Asfg89
+
+[Sunday, 15 October 2017 at 07:30:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 437876878
+CHAT: -1001108628160
+TEXT: @loveanni
+
+[Sunday, 15 October 2017 at 07:52:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 148855996
+CHAT: -1001108628160
+TEXT: @AbiiTeAmo
+
+[Sunday, 15 October 2017 at 08:10:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 471215820
+CHAT: -1001055341307
+TEXT: @JohanElVisitante
+
+[Sunday, 15 October 2017 at 13:17:17]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 425159607
+CHAT: -1001055341307
+TEXT: @cruzado98
+
+[Sunday, 15 October 2017 at 15:34:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 471215820
+CHAT: -1001055341307
+TEXT: @JohanElVisitante
+
+[Sunday, 15 October 2017 at 16:54:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 349401214
+CHAT: -1001055341307
+TEXT: @yorlandy
+
+[Sunday, 15 October 2017 at 17:23:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 311745840
+CHAT: -1001108628160
+TEXT: @Danie3la
+
+[Sunday, 15 October 2017 at 17:27:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @Eliasmusik
+
+[Monday, 16 October 2017 at 09:46:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 5724636
+CHAT: -1001056977775
+TEXT: @GabyGab
+
+[Monday, 16 October 2017 at 17:11:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 434478073
+CHAT: -1001055341307
+TEXT: @EL_CHICOMALO
+
+[Monday, 16 October 2017 at 20:56:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @RoxxxyB
+
+[Monday, 16 October 2017 at 20:56:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @RoxxxyB
+
+[Tuesday, 17 October 2017 at 02:03:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 5724636
+CHAT: -1001056977775
+TEXT: @iJonar
+
+[Tuesday, 17 October 2017 at 05:56:32]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 5724636
+CHAT: -1001056977775
+TEXT: @iJonar
+
+[Tuesday, 17 October 2017 at 08:53:18]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 314482570
+CHAT: -1001055341307
+TEXT: @kmilo18
+
+[Tuesday, 17 October 2017 at 10:03:23]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 351822062
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Tuesday, 17 October 2017 at 12:12:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 458323029
+CHAT: -1001055341307
+TEXT: @Pipe058
+
+[Wednesday, 18 October 2017 at 10:46:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 136477130
+CHAT: -1001055341307
+TEXT: @Antm2
+
+[Wednesday, 18 October 2017 at 13:37:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 222211338
+CHAT: -1001055341307
+TEXT: @Criliko
+
+[Wednesday, 18 October 2017 at 14:34:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 456398569
+CHAT: -1001055341307
+TEXT: @Dooncar
+
+[Wednesday, 18 October 2017 at 14:57:19]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 293203639
+CHAT: -1001096846712
+TEXT: @Stranger_A
+
+[Wednesday, 18 October 2017 at 14:59:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 304211445
+CHAT: -1001051899612
+TEXT: @YuukoIchihara
+
+[Wednesday, 18 October 2017 at 18:35:02]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 351822062
+CHAT: -1001055341307
+TEXT: @JSLA1998
+
+[Thursday, 19 October 2017 at 15:30:20]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 351822062
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Thursday, 19 October 2017 at 17:42:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Thursday, 19 October 2017 at 18:40:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @ZDeemoN
+
+[Thursday, 19 October 2017 at 19:15:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @ZDeemoN
+
+[Thursday, 19 October 2017 at 20:00:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @Cruzado98
+
+[Thursday, 19 October 2017 at 20:00:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @Cruzado98
+
+[Friday, 20 October 2017 at 09:05:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Friday, 20 October 2017 at 09:06:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 180791241
+CHAT: -1001101240169
+TEXT: @HuterCR
+
+[Friday, 20 October 2017 at 11:37:40]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 351822062
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Friday, 20 October 2017 at 16:49:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @Anonimous_jc
+
+[Friday, 20 October 2017 at 20:22:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @BlackL01
+
+[Friday, 20 October 2017 at 20:27:06]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466063930
+CHAT: -1001055341307
+TEXT: @El_Novato
+
+[Friday, 20 October 2017 at 20:28:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 74824566
+CHAT: -1001055341307
+TEXT: @El_Novato
+
+[Friday, 20 October 2017 at 21:18:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 424841554
+CHAT: -1001055341307
+TEXT: @El_Novato
+
+[Friday, 20 October 2017 at 21:52:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 300212455
+CHAT: -1001055341307
+TEXT: @Bedonyita
+
+[Saturday, 21 October 2017 at 09:36:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @Elias2631
+
+[Saturday, 21 October 2017 at 13:23:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 95616812
+CHAT: -1001119216910
+TEXT: @M4t3aCup1d0
+
+[Saturday, 21 October 2017 at 13:49:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 336804016
+CHAT: -1001109143636
+TEXT: @carls_8
+
+[Saturday, 21 October 2017 at 14:35:53]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 220601129
+CHAT: -1001055341307
+TEXT: @DANIEL2018
+
+[Sunday, 22 October 2017 at 10:36:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 27840971
+CHAT: -1001096846712
+TEXT: @Womansmile
+
+[Sunday, 22 October 2017 at 11:23:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 239465910
+CHAT: -1001096846712
+TEXT: @OR47DO
+
+[Sunday, 22 October 2017 at 11:24:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 239465910
+CHAT: -1001096846712
+TEXT: @OR47DO
+
+[Sunday, 22 October 2017 at 11:55:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @misterioso018
+
+[Sunday, 22 October 2017 at 12:33:22]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @misterioso018
+
+[Sunday, 22 October 2017 at 17:12:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @misterioso018
+
+[Sunday, 22 October 2017 at 17:18:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 449200272
+CHAT: -1001139906339
+TEXT: @jimmyjp11
+
+[Sunday, 22 October 2017 at 17:34:53]
+plugins/extra.lua:86: '}' expected (to close '{' at line 78) near <eof>
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Sunday, 22 October 2017 at 17:35:42]
+plugins/extra.lua:40: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /extra list
+
+[Sunday, 22 October 2017 at 17:36:12]
+plugins/extra.lua:22: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /extra #a abc
+
+[Sunday, 22 October 2017 at 17:36:24]
+plugins/extra.lua:73: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: #a
+
+[Sunday, 22 October 2017 at 17:37:46]
+plugins/extra.lua:40: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /extra list
+
+[Sunday, 22 October 2017 at 17:37:52]
+utilities.lua:305: attempt to index local 'text' (a nil value)
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /extra
+
+[Sunday, 22 October 2017 at 17:38:21]
+plugins/extra.lua:55: attempt to call global 'mystat' (a nil value)
+
+
+FROM: 27840971
+CHAT: -1001101240169
+TEXT: /extra del #a
+
+[Sunday, 22 October 2017 at 20:58:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @misterioso018
+
+[Monday, 23 October 2017 at 15:53:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @Raiden2018
+
+[Monday, 23 October 2017 at 15:54:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @AbiiTeAmo
+
+[Monday, 23 October 2017 at 16:31:34]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @ZDeemoN
+
+[Monday, 23 October 2017 at 16:32:29]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Monday, 23 October 2017 at 16:32:49]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @Princesa02
+
+[Monday, 23 October 2017 at 16:33:00]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @lagrimita
+
+[Monday, 23 October 2017 at 16:33:27]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @Raiden2018
+
+[Monday, 23 October 2017 at 16:33:41]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @Mat_iaS
+
+[Monday, 23 October 2017 at 16:33:52]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @Danie3la
+
+[Monday, 23 October 2017 at 16:34:08]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @Suicide_Darkness
+
+[Monday, 23 October 2017 at 16:34:26]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 358489483
+CHAT: -1001108628160
+TEXT: @hjg12e
+
+[Monday, 23 October 2017 at 20:00:57]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 351822062
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Tuesday, 24 October 2017 at 06:23:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @misterioso018
+
+[Tuesday, 24 October 2017 at 15:14:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 251724399
+CHAT: -1001127591024
+TEXT: @Metodospra
+
+[Wednesday, 25 October 2017 at 05:50:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @misterioso018
+
+[Wednesday, 25 October 2017 at 07:08:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @dexterchicogenio01
+
+[Wednesday, 25 October 2017 at 08:00:09]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 188289054
+CHAT: -1001108628160
+TEXT: @teamoabby
+
+[Wednesday, 25 October 2017 at 08:19:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 413520881
+CHAT: -1001055341307
+TEXT: @dexterchicogenio01
+
+[Thursday, 26 October 2017 at 10:03:40]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 262373825
+CHAT: -1001055341307
+TEXT: @renegadohacker
+
+[Thursday, 26 October 2017 at 12:49:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 181654249
+CHAT: -1001096846712
+TEXT: @Jose538291
+
+[Thursday, 26 October 2017 at 15:21:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 149591462
+CHAT: -1001071541329
+TEXT: @GUS_94
+
+[Thursday, 26 October 2017 at 15:45:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 181654249
+CHAT: -1001071541329
+TEXT: @JosephBrito
+
+[Thursday, 26 October 2017 at 15:46:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @riooot
+
+[Thursday, 26 October 2017 at 15:46:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 181654249
+CHAT: -1001071541329
+TEXT: @riooot
+
+[Thursday, 26 October 2017 at 16:52:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 181654249
+CHAT: -1001071541329
+TEXT: @riooot
+
+[Thursday, 26 October 2017 at 18:20:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @encrypt1
+
+[Thursday, 26 October 2017 at 20:55:52]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 243737941
+CHAT: -1001055341307
+TEXT: @l0IOl
+
+[Friday, 27 October 2017 at 07:14:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 237817529
+CHAT: -1001055341307
+TEXT: @DEAD_NOTE2
+
+[Friday, 27 October 2017 at 10:00:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Friday, 27 October 2017 at 10:51:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Friday, 27 October 2017 at 11:07:09]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @FERNANDA_KASTRO
+
+[Friday, 27 October 2017 at 13:33:54]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 106657810
+CHAT: -1001108628160
+TEXT: @FERNANDA_KASTRO
+
+[Friday, 27 October 2017 at 14:31:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 133414949
+CHAT: -1001139537460
+TEXT: @ICristall
+
+[Friday, 27 October 2017 at 16:36:38]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got nil)
+
+
+FROM: 292858800
+CHAT: 292858800
+TEXT: /welcome
+
+[Friday, 27 October 2017 at 19:00:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 366510298
+CHAT: -1001108628160
+TEXT: @rcoiris
+
+[Friday, 27 October 2017 at 20:15:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 438131230
+CHAT: -1001139906339
+TEXT: @Javiermundo
+
+[Friday, 27 October 2017 at 20:58:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466153849
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Saturday, 28 October 2017 at 11:21:06]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 208691854
+CHAT: -1001112595265
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Saturday, 28 October 2017 at 19:29:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 403743565
+CHAT: -1001055341307
+TEXT: @El_Novato
+
+[Saturday, 28 October 2017 at 19:33:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 308876674
+CHAT: -1001112595265
+TEXT: @yosoyL
+
+[Saturday, 28 October 2017 at 20:50:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 311745840
+CHAT: -1001139537460
+TEXT: @Danie3la
+
+[Saturday, 28 October 2017 at 21:22:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @Nucleoterco
+
+[Sunday, 29 October 2017 at 08:10:40]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 403743565
+CHAT: -1001139906339
+TEXT: @SrAlejoPro
+
+[Sunday, 29 October 2017 at 08:50:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 374827917
+CHAT: -1001055341307
+TEXT: @Criliko
+
+[Sunday, 29 October 2017 at 08:56:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 208691854
+CHAT: -1001112595265
+TEXT: @yosoyL
+
+[Sunday, 29 October 2017 at 12:26:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 465858500
+CHAT: -1001055341307
+TEXT: @Jmangat
+
+[Sunday, 29 October 2017 at 12:27:19]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Sunday, 29 October 2017 at 12:27:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 465858500
+CHAT: -1001055341307
+TEXT: @Jmangat
+
+[Sunday, 29 October 2017 at 12:40:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 465858500
+CHAT: -1001055341307
+TEXT: @Crifeur
+
+[Sunday, 29 October 2017 at 16:56:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 102455178
+CHAT: -1001055341307
+TEXT: @NETFLIX5218
+
+[Sunday, 29 October 2017 at 17:58:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 396360548
+CHAT: -1001139906339
+TEXT: @MR_ANONYMOUZ
+
+[Sunday, 29 October 2017 at 20:36:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @El_Novato
+
+[Sunday, 29 October 2017 at 20:39:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @Nucleoterco
+
+[Sunday, 29 October 2017 at 21:08:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 248326645
+CHAT: -1001139906339
+TEXT: @NETFLIX1000
+
+[Sunday, 29 October 2017 at 21:17:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 301425622
+CHAT: -1001055341307
+TEXT: @andriiiii
+
+[Monday, 30 October 2017 at 04:24:15]
+/usr/local/share/lua/5.2/socket/url.lua:31: bad argument #1 to 'gsub' (string expected, got nil)
+
+
+FROM: 292858800
+CHAT: 292858800
+TEXT: /welcome gif/
+
+[Monday, 30 October 2017 at 07:51:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 474130367
+CHAT: -1001139906339
+TEXT: @DR_CIENCIAVPN
+
+[Monday, 30 October 2017 at 08:38:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Monday, 30 October 2017 at 12:09:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Monday, 30 October 2017 at 12:26:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 443100599
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Monday, 30 October 2017 at 12:30:41]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 471212318
+CHAT: -1001108628160
+TEXT: @Davious
+
+[Monday, 30 October 2017 at 12:41:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 440318093
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Monday, 30 October 2017 at 12:41:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 443100599
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Monday, 30 October 2017 at 12:42:09]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 440318093
+CHAT: -1001112595265
+TEXT: @Nochefria
+
+[Monday, 30 October 2017 at 12:53:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 365588409
+CHAT: -1001055341307
+TEXT: @Sergiodtaz
+
+[Monday, 30 October 2017 at 12:59:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 417765590
+CHAT: -1001108628160
+TEXT: @ZDeemoN
+
+[Monday, 30 October 2017 at 13:51:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 466153849
+CHAT: -1001112595265
+TEXT: @DEAD_NOTE2
+
+[Monday, 30 October 2017 at 13:52:22]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 335146976
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Monday, 30 October 2017 at 16:28:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @SoyInvisible
+
+[Monday, 30 October 2017 at 16:43:09]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 493342027
+CHAT: -1001112595265
+TEXT: @Flor_de_lot0
+
+[Monday, 30 October 2017 at 16:44:32]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @iancard91
+
+[Monday, 30 October 2017 at 22:30:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @iancard91
+
+[Tuesday, 31 October 2017 at 06:17:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337761310
+CHAT: -1001055341307
+TEXT: @Erutan
+
+[Tuesday, 31 October 2017 at 07:43:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 229305062
+CHAT: -1001055341307
+TEXT: @Anonymuos89
+
+[Tuesday, 31 October 2017 at 10:07:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 237817529
+CHAT: -1001112595265
+TEXT: @DEAD_NOTE2
+
+[Tuesday, 31 October 2017 at 10:32:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 183313951
+CHAT: -1001055341307
+TEXT: @Djfelixneydd
+
+[Tuesday, 31 October 2017 at 11:09:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Tuesday, 31 October 2017 at 13:26:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 408395270
+CHAT: -1001103092170
+TEXT: @Womansmile
+
+[Tuesday, 31 October 2017 at 13:53:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 474734260
+CHAT: -1001103092170
+TEXT: @Matiacc
+
+[Tuesday, 31 October 2017 at 14:43:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 331274786
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Tuesday, 31 October 2017 at 15:13:33]
+languages.lua:438: invalid escape sequence near '\L'
+
+
+FROM: 292858800
+CHAT: 292858800
+TEXT: ###cb:!user
+
+[Tuesday, 31 October 2017 at 17:34:22]
+utilities.lua:819: attempt to index global 'lang' (a nil value)
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: ###cb:flood:dim:-1001146759508
+
+[Tuesday, 31 October 2017 at 17:34:23]
+utilities.lua:819: attempt to index global 'lang' (a nil value)
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: ###cb:flood:dim:-1001146759508
+
+[Tuesday, 31 October 2017 at 17:34:26]
+plugins/floodmanager.lua:99: attempt to index global 'lang' (a nil value)
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: ###cb:flood:alert:num
+
+[Tuesday, 31 October 2017 at 17:34:26]
+plugins/floodmanager.lua:99: attempt to index global 'lang' (a nil value)
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: ###cb:flood:alert:num
+
+[Tuesday, 31 October 2017 at 17:37:36]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Tuesday, 31 October 2017 at 17:51:38]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Tuesday, 31 October 2017 at 17:51:38]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Tuesday, 31 October 2017 at 18:02:56]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Tuesday, 31 October 2017 at 18:02:56]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Tuesday, 31 October 2017 at 18:04:44]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Tuesday, 31 October 2017 at 18:04:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Tuesday, 31 October 2017 at 19:12:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @Nucleoterco
+
+[Tuesday, 31 October 2017 at 19:12:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @Nucleoterco
+
+[Tuesday, 31 October 2017 at 19:37:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 228862327
+CHAT: -1001108628160
+TEXT: @AbiiTeAmo
+
+[Tuesday, 31 October 2017 at 20:13:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 208691854
+CHAT: -1001112595265
+TEXT: @WeirdGirl25
+
+[Tuesday, 31 October 2017 at 21:32:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 301425622
+CHAT: -1001055341307
+TEXT: @andriiiii
+
+[Tuesday, 31 October 2017 at 21:32:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 301425622
+CHAT: -1001055341307
+TEXT: @andriiiii
+
+[Tuesday, 31 October 2017 at 23:18:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 15050626
+CHAT: -1001112595265
+TEXT: @loquendo
+
+[Wednesday, 01 November 2017 at 05:49:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @TU_NERVIOSO_YO_TRANKILO
+
+[Wednesday, 01 November 2017 at 06:12:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Wednesday, 01 November 2017 at 06:12:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Wednesday, 01 November 2017 at 06:12:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Wednesday, 01 November 2017 at 06:13:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Wednesday, 01 November 2017 at 06:13:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @Pandorasx
+
+[Wednesday, 01 November 2017 at 06:22:39]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @Kellymedinaa
+
+[Wednesday, 01 November 2017 at 06:30:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @El_Novato
+
+[Wednesday, 01 November 2017 at 10:44:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @El_Novato
+
+[Wednesday, 01 November 2017 at 11:20:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @Pandorasx
+
+[Wednesday, 01 November 2017 at 11:23:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Wednesday, 01 November 2017 at 11:38:39]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Wednesday, 01 November 2017 at 12:05:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Wednesday, 01 November 2017 at 13:00:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 66539365
+CHAT: -1001055341307
+TEXT: @El_Novato
+
+[Wednesday, 01 November 2017 at 13:02:00]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astats
+
+[Wednesday, 01 November 2017 at 13:18:14]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Wednesday, 01 November 2017 at 13:18:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Wednesday, 01 November 2017 at 13:41:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 377252035
+CHAT: -1001103092170
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Wednesday, 01 November 2017 at 13:41:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 377252035
+CHAT: -1001103092170
+TEXT: @Kellymedinaa
+
+[Wednesday, 01 November 2017 at 13:41:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 377252035
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Wednesday, 01 November 2017 at 13:41:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 377252035
+CHAT: -1001103092170
+TEXT: @comonbruh
+
+[Wednesday, 01 November 2017 at 14:00:22]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @El_Novato
+
+[Wednesday, 01 November 2017 at 14:38:16]
+plugins/tags.lua:44: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 48993850
+CHAT: -1001146759508
+TEXT: @Jose538291
+
+[Wednesday, 01 November 2017 at 14:48:30]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 48993850
+CHAT: -1001096846712
+TEXT: @DegameEnPas
+
+[Wednesday, 01 November 2017 at 15:27:40]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 223958763
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Wednesday, 01 November 2017 at 18:31:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @El_Novato
+
+[Wednesday, 01 November 2017 at 18:44:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 46891684
+CHAT: -1001112595265
+TEXT: @El_Novato
+
+[Thursday, 02 November 2017 at 07:26:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Thursday, 02 November 2017 at 07:31:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Thursday, 02 November 2017 at 07:43:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 391166094
+CHAT: -1001103092170
+TEXT: @Pandorasx
+
+[Thursday, 02 November 2017 at 07:43:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 391166094
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Thursday, 02 November 2017 at 07:44:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 391166094
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Thursday, 02 November 2017 at 07:54:00]
+utilities.lua:224: attempt to index field '?' (a nil value)
+
+
+FROM: 332640124
+CHAT: -1001133971710
+TEXT: /config
+
+[Thursday, 02 November 2017 at 08:14:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Thursday, 02 November 2017 at 08:18:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @RUBENTITAN
+
+[Thursday, 02 November 2017 at 08:22:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @mdgtt
+
+[Thursday, 02 November 2017 at 09:56:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337692639
+CHAT: -1001055341307
+TEXT: @andriiii
+
+[Thursday, 02 November 2017 at 12:27:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Thursday, 02 November 2017 at 12:27:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @DayVX
+
+[Thursday, 02 November 2017 at 12:27:39]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Thursday, 02 November 2017 at 12:27:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @RUBENTITAN
+
+[Thursday, 02 November 2017 at 14:26:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 308876674
+CHAT: -1001112595265
+TEXT: @iancard91
+
+[Thursday, 02 November 2017 at 14:40:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 456398569
+CHAT: -1001055341307
+TEXT: @Dooncar
+
+[Thursday, 02 November 2017 at 15:11:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 181654249
+CHAT: -1001096846712
+TEXT: @REIDIOMAN
+
+[Thursday, 02 November 2017 at 15:13:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 193924823
+CHAT: -1001051899612
+TEXT: @Godeep
+
+[Thursday, 02 November 2017 at 16:45:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @cangrejo
+
+[Thursday, 02 November 2017 at 16:45:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @emmapato19
+
+[Thursday, 02 November 2017 at 16:45:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Thursday, 02 November 2017 at 16:50:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Thursday, 02 November 2017 at 17:28:33]
+plugins/tags.lua:44: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 48993850
+CHAT: -1001146759508
+TEXT: @Andrenet
+
+[Thursday, 02 November 2017 at 19:40:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @Santi4ago
+
+[Thursday, 02 November 2017 at 19:40:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @Espacio_vacio
+
+[Thursday, 02 November 2017 at 22:31:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 471215820
+CHAT: -1001055341307
+TEXT: @VisitThePlanet
+
+[Friday, 03 November 2017 at 03:13:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Friday, 03 November 2017 at 03:16:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Friday, 03 November 2017 at 09:21:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @emmapato19
+
+[Friday, 03 November 2017 at 10:51:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @AudYStark
+
+[Friday, 03 November 2017 at 10:52:08]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @Naadaa7
+
+[Friday, 03 November 2017 at 15:55:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 237817529
+CHAT: -1001112595265
+TEXT: @DEAD_NOTE2
+
+[Friday, 03 November 2017 at 16:10:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @Gustavosoy
+
+[Friday, 03 November 2017 at 21:50:38]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 66539365
+CHAT: -1001055341307
+TEXT: @diosmiGui
+
+[Saturday, 04 November 2017 at 06:26:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Saturday, 04 November 2017 at 13:49:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Saturday, 04 November 2017 at 13:49:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @comonbruh
+
+[Saturday, 04 November 2017 at 13:51:18]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 377252035
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Sunday, 05 November 2017 at 16:17:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @RUBENTITAN
+
+[Sunday, 05 November 2017 at 16:19:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Sunday, 05 November 2017 at 16:19:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Sunday, 05 November 2017 at 16:19:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Sunday, 05 November 2017 at 16:20:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Sunday, 05 November 2017 at 16:20:08]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Sunday, 05 November 2017 at 18:37:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 348655075
+CHAT: -1001112595265
+TEXT: @Babumonyi
+
+[Monday, 06 November 2017 at 03:15:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Monday, 06 November 2017 at 03:21:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Monday, 06 November 2017 at 03:38:19]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Monday, 06 November 2017 at 03:38:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Monday, 06 November 2017 at 04:14:44]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Monday, 06 November 2017 at 04:14:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Monday, 06 November 2017 at 04:14:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Monday, 06 November 2017 at 04:49:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Monday, 06 November 2017 at 05:21:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Monday, 06 November 2017 at 05:25:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Monday, 06 November 2017 at 12:42:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 290011597
+CHAT: -1001051899612
+TEXT: @FUMitoDxD
+
+[Monday, 06 November 2017 at 13:38:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Monday, 06 November 2017 at 13:40:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Monday, 06 November 2017 at 14:05:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @AlopolisiAAAA
+
+[Monday, 06 November 2017 at 14:22:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 377674083
+CHAT: -1001073045148
+TEXT: @Pepelucho08
+
+[Monday, 06 November 2017 at 17:22:28]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 496879145
+CHAT: -1001139537460
+TEXT: @Danie3la
+
+[Monday, 06 November 2017 at 20:42:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 161725206
+CHAT: -1001139537460
+TEXT: @AldoDeltaOscar
+
+[Tuesday, 07 November 2017 at 08:30:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337692639
+CHAT: -1001112595265
+TEXT: @BBadBunny
+
+[Tuesday, 07 November 2017 at 09:30:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 351822062
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Tuesday, 07 November 2017 at 09:47:17]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 237817529
+CHAT: -1001112595265
+TEXT: @AlifMurito
+
+[Wednesday, 08 November 2017 at 12:17:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 274049566
+CHAT: -1001130137889
+TEXT: @Stain89
+
+[Wednesday, 08 November 2017 at 14:31:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 242248019
+CHAT: -1001112595265
+TEXT: @sofiaoconnor
+
+[Wednesday, 08 November 2017 at 14:31:30]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 242248019
+CHAT: -1001112595265
+TEXT: @sofiaoconnor
+
+[Wednesday, 08 November 2017 at 14:31:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 242248019
+CHAT: -1001112595265
+TEXT: @sofiaoconnor
+
+[Wednesday, 08 November 2017 at 15:08:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 301425622
+CHAT: -1001055341307
+TEXT: @The_Versatil
+
+[Wednesday, 08 November 2017 at 15:58:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 33710648
+CHAT: -1001051899612
+TEXT: @Kurumizawa_Satanichia
+
+[Wednesday, 08 November 2017 at 16:40:19]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 33710648
+CHAT: -1001051899612
+TEXT: @MyWaifuSatania
+
+[Wednesday, 08 November 2017 at 17:12:17]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 496879145
+CHAT: -1001108628160
+TEXT: @loveanni
+
+[Wednesday, 08 November 2017 at 17:15:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 33710648
+CHAT: -1001051899612
+TEXT: @Miku_39
+
+[Wednesday, 08 November 2017 at 19:34:47]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 48993850
+CHAT: -1001096846712
+TEXT: @Jose538291
+
+[Wednesday, 08 November 2017 at 23:09:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 143131342
+CHAT: -1001055341307
+TEXT: @Sergiodtaz
+
+[Thursday, 09 November 2017 at 16:02:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Thursday, 09 November 2017 at 16:02:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Thursday, 09 November 2017 at 16:03:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Thursday, 09 November 2017 at 16:47:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 237817529
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Thursday, 09 November 2017 at 17:38:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Thursday, 09 November 2017 at 17:44:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Thursday, 09 November 2017 at 17:44:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Thursday, 09 November 2017 at 17:44:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Thursday, 09 November 2017 at 17:44:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cystyrlwm
+
+[Thursday, 09 November 2017 at 17:45:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Thursday, 09 November 2017 at 17:45:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Thursday, 09 November 2017 at 17:45:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Thursday, 09 November 2017 at 17:45:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Thursday, 09 November 2017 at 17:45:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Thursday, 09 November 2017 at 17:46:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Thursday, 09 November 2017 at 17:46:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Thursday, 09 November 2017 at 17:46:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @comonbruh
+
+[Thursday, 09 November 2017 at 17:46:44]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Thursday, 09 November 2017 at 17:46:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Thursday, 09 November 2017 at 17:47:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @RUBENTITAN
+
+[Thursday, 09 November 2017 at 17:47:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SaitoSeptuno
+
+[Thursday, 09 November 2017 at 17:47:18]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Vanessa28
+
+[Thursday, 09 November 2017 at 18:04:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Thursday, 09 November 2017 at 18:04:38]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Thursday, 09 November 2017 at 18:04:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Thursday, 09 November 2017 at 18:04:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cystyrlwm
+
+[Thursday, 09 November 2017 at 18:04:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Thursday, 09 November 2017 at 18:04:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Thursday, 09 November 2017 at 18:05:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Thursday, 09 November 2017 at 18:05:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Thursday, 09 November 2017 at 18:51:46]
+utilities.lua:305: attempt to index local 'text' (a nil value)
+
+
+FROM: 3913822
+CHAT: -1001126209270
+TEXT: /disable links
+
+[Thursday, 09 November 2017 at 18:52:15]
+utilities.lua:305: attempt to index local 'text' (a nil value)
+
+
+FROM: 3913822
+CHAT: -1001126209270
+TEXT: /enable links
+
+[Thursday, 09 November 2017 at 19:06:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401155991
+CHAT: -1001112595265
+TEXT: @Dragneel7
+
+[Thursday, 09 November 2017 at 21:05:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 378195491
+CHAT: -1001055341307
+TEXT: @El_Novato
+
+[Thursday, 09 November 2017 at 21:17:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 351822062
+CHAT: -1001055341307
+TEXT: @El_Novato
+
+[Thursday, 09 November 2017 at 21:20:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Thursday, 09 November 2017 at 23:08:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 307987243
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Friday, 10 November 2017 at 05:05:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 10 November 2017 at 05:05:30]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Friday, 10 November 2017 at 05:05:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Friday, 10 November 2017 at 05:05:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Friday, 10 November 2017 at 05:05:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Friday, 10 November 2017 at 05:06:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @comonbruh
+
+[Friday, 10 November 2017 at 05:06:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SummertimeSadnessss
+
+[Friday, 10 November 2017 at 05:06:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Friday, 10 November 2017 at 05:06:17]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Friday, 10 November 2017 at 05:06:22]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cystyrlwm
+
+[Friday, 10 November 2017 at 05:06:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Friday, 10 November 2017 at 05:06:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Friday, 10 November 2017 at 05:06:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @emmapato19
+
+[Friday, 10 November 2017 at 05:07:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Friday, 10 November 2017 at 05:07:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Friday, 10 November 2017 at 05:07:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Friday, 10 November 2017 at 05:08:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Friday, 10 November 2017 at 05:08:32]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Friday, 10 November 2017 at 05:08:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 10 November 2017 at 06:03:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 06:03:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 289606250
+CHAT: -1001108628160
+TEXT: @qepasa
+
+[Friday, 10 November 2017 at 06:03:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 10 November 2017 at 06:04:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Friday, 10 November 2017 at 06:05:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 10 November 2017 at 06:05:18]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Friday, 10 November 2017 at 06:09:19]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 10 November 2017 at 06:09:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 214107938
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Friday, 10 November 2017 at 06:10:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 214107938
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Friday, 10 November 2017 at 06:10:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Friday, 10 November 2017 at 06:12:08]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 214107938
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Friday, 10 November 2017 at 09:41:19]
+plugins/admin.lua:223: attempt to index a boolean value
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /astats
+
+[Friday, 10 November 2017 at 14:16:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 331800676
+CHAT: -1001112595265
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Friday, 10 November 2017 at 14:40:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 311798935
+CHAT: -1001114735685
+TEXT: @noobguy24000
+
+[Friday, 10 November 2017 at 16:00:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 10 November 2017 at 16:00:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 10 November 2017 at 16:00:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Friday, 10 November 2017 at 16:00:55]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Friday, 10 November 2017 at 16:01:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Friday, 10 November 2017 at 16:01:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Friday, 10 November 2017 at 16:01:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 16:01:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Friday, 10 November 2017 at 16:01:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SummertimeSadnessss
+
+[Friday, 10 November 2017 at 16:02:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Friday, 10 November 2017 at 16:02:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Friday, 10 November 2017 at 16:02:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Friday, 10 November 2017 at 16:02:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @comonbruh
+
+[Friday, 10 November 2017 at 16:02:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Friday, 10 November 2017 at 16:02:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cystyrlwm
+
+[Friday, 10 November 2017 at 16:02:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Friday, 10 November 2017 at 16:02:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @emmapato19
+
+[Friday, 10 November 2017 at 16:03:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Friday, 10 November 2017 at 16:03:22]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Friday, 10 November 2017 at 16:41:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Friday, 10 November 2017 at 16:41:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Friday, 10 November 2017 at 16:41:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Vanessa28
+
+[Friday, 10 November 2017 at 16:41:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Friday, 10 November 2017 at 16:42:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Friday, 10 November 2017 at 16:42:08]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 16:42:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Friday, 10 November 2017 at 16:42:18]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SummertimeSadnessss
+
+[Friday, 10 November 2017 at 17:04:14]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 221966378
+CHAT: -1001055341307
+TEXT: @RacioNF
+
+[Friday, 10 November 2017 at 17:11:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Friday, 10 November 2017 at 17:13:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 10 November 2017 at 17:13:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SaitoSeptuno
+
+[Friday, 10 November 2017 at 17:14:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SummertimeSadnessss
+
+[Friday, 10 November 2017 at 17:14:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Friday, 10 November 2017 at 17:27:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 10 November 2017 at 17:27:55]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Vanessa28
+
+[Friday, 10 November 2017 at 17:28:03]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 17:28:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Friday, 10 November 2017 at 17:28:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Friday, 10 November 2017 at 17:28:32]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Friday, 10 November 2017 at 17:28:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 10 November 2017 at 17:31:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Friday, 10 November 2017 at 17:31:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 17:31:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Friday, 10 November 2017 at 17:31:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 10 November 2017 at 17:36:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Friday, 10 November 2017 at 17:45:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SummertimeSadnessss
+
+[Friday, 10 November 2017 at 17:45:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 10 November 2017 at 17:45:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Vanessa28
+
+[Friday, 10 November 2017 at 17:45:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Friday, 10 November 2017 at 17:52:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 18:07:38]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SummertimeSadnessss
+
+[Friday, 10 November 2017 at 18:07:44]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 10 November 2017 at 18:07:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Friday, 10 November 2017 at 18:08:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Friday, 10 November 2017 at 18:08:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 18:08:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 10 November 2017 at 18:08:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Friday, 10 November 2017 at 18:08:44]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Friday, 10 November 2017 at 18:08:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Friday, 10 November 2017 at 18:08:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Friday, 10 November 2017 at 18:09:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cystyrlwm
+
+[Friday, 10 November 2017 at 18:09:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Vanessa28
+
+[Friday, 10 November 2017 at 18:10:06]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Friday, 10 November 2017 at 18:10:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Friday, 10 November 2017 at 18:33:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 10 November 2017 at 18:47:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Friday, 10 November 2017 at 18:47:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 10 November 2017 at 18:49:14]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 18:49:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 10 November 2017 at 18:49:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Friday, 10 November 2017 at 18:57:39]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Friday, 10 November 2017 at 19:00:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 10 November 2017 at 19:12:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Friday, 10 November 2017 at 19:15:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 10 November 2017 at 19:52:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 329971901
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Friday, 10 November 2017 at 19:53:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 329971901
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Friday, 10 November 2017 at 19:53:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 329971901
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Friday, 10 November 2017 at 19:53:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 329971901
+CHAT: -1001108628160
+TEXT: @DarkielKastroHermandadSV
+
+[Friday, 10 November 2017 at 19:58:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 188289054
+CHAT: -1001108628160
+TEXT: @NenaPandaShox
+
+[Friday, 10 November 2017 at 20:20:26]
+plugins/tags.lua:50: attempt to concatenate field 'username' (a nil value)
+
+
+FROM: 315262603
+CHAT: -1001121556546
+TEXT: @Depravadosexualnet
+
+[Friday, 10 November 2017 at 20:23:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 251993757
+CHAT: -1001055341307
+TEXT: @darevill
+
+[Friday, 10 November 2017 at 22:36:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 348655075
+CHAT: -1001112595265
+TEXT: @Nucleoterco
+
+[Friday, 10 November 2017 at 23:20:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Saturday, 11 November 2017 at 10:39:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Saturday, 11 November 2017 at 10:40:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Saturday, 11 November 2017 at 10:53:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Saturday, 11 November 2017 at 10:54:06]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CR1XuS
+
+[Saturday, 11 November 2017 at 10:54:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Saturday, 11 November 2017 at 10:54:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Saturday, 11 November 2017 at 10:54:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Saturday, 11 November 2017 at 10:59:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Saturday, 11 November 2017 at 10:59:39]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Saturday, 11 November 2017 at 20:47:31]
+plugins/findpedoss.lua:23: attempt to call global 'is_gbanners' (a nil value)
+
+
+FROM: 365368706
+CHAT: -1001071541329
+TEXT: /scan
+
+[Saturday, 11 November 2017 at 20:51:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 161725206
+CHAT: -1001139537460
+TEXT: @cadeyork
+
+[Saturday, 11 November 2017 at 21:40:14]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 250301329
+CHAT: -1001101240169
+TEXT: /ainit
+
+[Saturday, 11 November 2017 at 22:44:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Saturday, 11 November 2017 at 22:44:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @Mota23
+
+[Saturday, 11 November 2017 at 22:44:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Saturday, 11 November 2017 at 22:44:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Saturday, 11 November 2017 at 22:45:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 464192592
+CHAT: -1001112595265
+TEXT: @El_Novato
+
+[Sunday, 12 November 2017 at 09:13:22]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 470234093
+CHAT: -1001139906339
+TEXT: @claro6
+
+[Sunday, 12 November 2017 at 10:40:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 470234093
+CHAT: -1001139906339
+TEXT: @claro6
+
+[Sunday, 12 November 2017 at 11:01:39]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Sunday, 12 November 2017 at 11:01:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Sunday, 12 November 2017 at 11:01:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Vanessa28
+
+[Sunday, 12 November 2017 at 11:01:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Sunday, 12 November 2017 at 11:01:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Sunday, 12 November 2017 at 11:02:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Sunday, 12 November 2017 at 11:02:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Sunday, 12 November 2017 at 11:02:09]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Sunday, 12 November 2017 at 11:02:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cystyrlwm
+
+[Sunday, 12 November 2017 at 11:02:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Sunday, 12 November 2017 at 11:02:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Sunday, 12 November 2017 at 11:02:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Sunday, 12 November 2017 at 11:02:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @JrDeLibra
+
+[Sunday, 12 November 2017 at 11:02:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Sunday, 12 November 2017 at 11:02:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Sunday, 12 November 2017 at 11:03:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Sunday, 12 November 2017 at 11:03:09]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Sunday, 12 November 2017 at 11:03:14]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Sunday, 12 November 2017 at 11:03:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @anaramirezz
+
+[Sunday, 12 November 2017 at 11:03:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @comonbruh
+
+[Sunday, 12 November 2017 at 11:03:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @emmapato19
+
+[Sunday, 12 November 2017 at 11:11:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 336773327
+CHAT: -1001121556546
+TEXT: @Ambu12
+
+[Sunday, 12 November 2017 at 11:13:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 169808607
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Sunday, 12 November 2017 at 11:51:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 301425622
+CHAT: -1001055341307
+TEXT: @Shechoo
+
+[Sunday, 12 November 2017 at 11:55:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 346768647
+CHAT: -1001133971710
+TEXT: @rosamelgorro
+
+[Sunday, 12 November 2017 at 12:05:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Sunday, 12 November 2017 at 12:06:03]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Sunday, 12 November 2017 at 12:06:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Sunday, 12 November 2017 at 12:06:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Sunday, 12 November 2017 at 12:06:16]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Sunday, 12 November 2017 at 12:11:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 374030569
+CHAT: -1001087922100
+TEXT: @bute503
+
+[Sunday, 12 November 2017 at 12:15:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 163291507
+CHAT: -1001103092170
+TEXT: @jcarlosbn
+
+[Sunday, 12 November 2017 at 12:16:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Sunday, 12 November 2017 at 12:16:08]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cystyrlwm
+
+[Sunday, 12 November 2017 at 12:16:19]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Sunday, 12 November 2017 at 12:27:32]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Sunday, 12 November 2017 at 12:27:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Sunday, 12 November 2017 at 12:27:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Sunday, 12 November 2017 at 12:55:08]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 214107938
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Monday, 13 November 2017 at 09:50:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337692639
+CHAT: -1001055341307
+TEXT: @EL_CHICOMALO
+
+[Monday, 13 November 2017 at 10:30:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 371381757
+CHAT: -1001051899612
+TEXT: @Matias_il
+
+[Monday, 13 November 2017 at 14:46:44]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 232303394
+CHAT: -1001130137889
+TEXT: @Elpaisa
+
+[Monday, 13 November 2017 at 14:49:40]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 371381757
+CHAT: -1001051899612
+TEXT: @HatCliff
+
+[Monday, 13 November 2017 at 15:44:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 304211445
+CHAT: -1001051899612
+TEXT: @FUMitoDxD
+
+[Monday, 13 November 2017 at 17:45:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 146053459
+CHAT: -1001051899612
+TEXT: @Arandano
+
+[Monday, 13 November 2017 at 18:30:06]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337692639
+CHAT: -1001112595265
+TEXT: @Careoco
+
+[Monday, 13 November 2017 at 18:59:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 27840971
+CHAT: -1001081880667
+TEXT: @HuterCR
+
+[Monday, 13 November 2017 at 20:54:30]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @Dess_quiciada
+
+[Monday, 13 November 2017 at 21:17:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @TocandoleLaJaleaAlaVida
+
+[Monday, 13 November 2017 at 21:41:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 27840971
+CHAT: -1001112595265
+TEXT: @Mota23
+
+[Monday, 13 November 2017 at 21:59:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @Dess_quiciada
+
+[Monday, 13 November 2017 at 23:24:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 166744529
+CHAT: -1001051899612
+TEXT: @TenshiKun
+
+[Tuesday, 14 November 2017 at 03:56:38]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Tuesday, 14 November 2017 at 03:56:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Tuesday, 14 November 2017 at 03:56:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Tuesday, 14 November 2017 at 03:57:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Tuesday, 14 November 2017 at 03:57:09]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @mariiajosels
+
+[Tuesday, 14 November 2017 at 03:57:18]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Tuesday, 14 November 2017 at 03:57:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Tuesday, 14 November 2017 at 03:57:30]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 227755216
+CHAT: -1001103092170
+TEXT: @TheEdenProject
+
+[Tuesday, 14 November 2017 at 03:57:35]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Tuesday, 14 November 2017 at 03:57:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @TheEdenProject
+
+[Tuesday, 14 November 2017 at 04:06:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 294728091
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Tuesday, 14 November 2017 at 05:04:32]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 347102541
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Tuesday, 14 November 2017 at 05:04:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 347102541
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Tuesday, 14 November 2017 at 05:09:44]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Tuesday, 14 November 2017 at 05:09:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Tuesday, 14 November 2017 at 05:10:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Tuesday, 14 November 2017 at 05:26:02]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Tuesday, 14 November 2017 at 10:29:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 204764150
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Tuesday, 14 November 2017 at 12:19:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 249251061
+CHAT: -1001055341307
+TEXT: @PcSolutions4503
+
+[Tuesday, 14 November 2017 at 12:41:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @Espacio_vacio
+
+[Tuesday, 14 November 2017 at 12:47:17]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @AlitoG
+
+[Tuesday, 14 November 2017 at 15:29:30]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Tuesday, 14 November 2017 at 15:29:55]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Soydomicana
+
+[Tuesday, 14 November 2017 at 15:30:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Tuesday, 14 November 2017 at 15:30:14]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Tuesday, 14 November 2017 at 16:17:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 55557320
+CHAT: -1001103092170
+TEXT: @birlera
+
+[Tuesday, 14 November 2017 at 18:56:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 403743565
+CHAT: -1001055341307
+TEXT: @Sr_Payaso
+
+[Tuesday, 14 November 2017 at 20:11:18]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @Letty29
+
+[Tuesday, 14 November 2017 at 20:30:19]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 173952879
+CHAT: -1001071541329
+TEXT: @Letty29
+
+[Tuesday, 14 November 2017 at 23:45:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 292858800
+CHAT: -1001112595265
+TEXT: @SigSauerP226
+
+[Wednesday, 15 November 2017 at 00:08:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 355625181
+CHAT: -1001051899612
+TEXT: @ryuumon
+
+[Wednesday, 15 November 2017 at 05:08:32]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 204764150
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Wednesday, 15 November 2017 at 05:08:39]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 204764150
+CHAT: -1001103092170
+TEXT: @badger_cl
+
+[Wednesday, 15 November 2017 at 07:12:40]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 401422605
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Wednesday, 15 November 2017 at 14:50:54]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 371381757
+CHAT: -1001051899612
+TEXT: @FUMitoDxD
+
+[Wednesday, 15 November 2017 at 16:05:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337692639
+CHAT: -1001112595265
+TEXT: @Lukiyas
+
+[Wednesday, 15 November 2017 at 16:43:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Wednesday, 15 November 2017 at 16:44:03]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Wednesday, 15 November 2017 at 16:44:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Wednesday, 15 November 2017 at 16:44:14]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Wednesday, 15 November 2017 at 16:44:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CyberpunkLover_JesusILoveYou
+
+[Wednesday, 15 November 2017 at 16:44:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Wednesday, 15 November 2017 at 16:44:34]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Wednesday, 15 November 2017 at 16:44:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Wednesday, 15 November 2017 at 16:44:47]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Wednesday, 15 November 2017 at 16:44:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Wednesday, 15 November 2017 at 16:44:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Wednesday, 15 November 2017 at 16:45:15]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Wednesday, 15 November 2017 at 16:56:03]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CyberpunkLover_JesusILoveYou
+
+[Wednesday, 15 November 2017 at 16:56:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Wednesday, 15 November 2017 at 16:56:12]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Wednesday, 15 November 2017 at 16:56:18]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @PoderNegro
+
+[Wednesday, 15 November 2017 at 16:56:20]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Wednesday, 15 November 2017 at 16:56:24]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Wednesday, 15 November 2017 at 16:56:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Mariana24
+
+[Wednesday, 15 November 2017 at 16:56:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @fushkun
+
+[Wednesday, 15 November 2017 at 21:57:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 307987243
+CHAT: -1001112595265
+TEXT: @Nucleoterco
+
+[Wednesday, 15 November 2017 at 22:46:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 188289054
+CHAT: -1001108628160
+TEXT: @ZapUser6119393401
+
+[Wednesday, 15 November 2017 at 23:10:55]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 188289054
+CHAT: -1001108628160
+TEXT: @pontevedresa
+
+[Wednesday, 15 November 2017 at 23:28:56]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 262043961
+CHAT: -1001108628160
+TEXT: @MAGYVERR
+
+[Thursday, 16 November 2017 at 04:50:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 221966378
+CHAT: -1001055341307
+TEXT: @NEXTDROID
+
+[Thursday, 16 November 2017 at 05:02:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 221966378
+CHAT: -1001055341307
+TEXT: @NEXTDROID
+
+[Thursday, 16 November 2017 at 05:07:23]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 12189521
+CHAT: -1001103092170
+TEXT: @MouseMinnie
+
+[Thursday, 16 November 2017 at 05:07:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 12189521
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Thursday, 16 November 2017 at 05:25:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Thursday, 16 November 2017 at 05:36:14]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Thursday, 16 November 2017 at 05:36:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Thursday, 16 November 2017 at 05:36:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Thursday, 16 November 2017 at 05:36:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Thursday, 16 November 2017 at 05:36:40]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Thursday, 16 November 2017 at 05:37:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Thursday, 16 November 2017 at 05:38:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Thursday, 16 November 2017 at 05:38:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Thursday, 16 November 2017 at 05:49:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CyberpunkLover_JesusILoveYou
+
+[Thursday, 16 November 2017 at 05:50:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Thursday, 16 November 2017 at 05:50:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Thursday, 16 November 2017 at 05:50:10]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Thursday, 16 November 2017 at 05:51:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @CyberpunkLover_JesusILoveYou
+
+[Thursday, 16 November 2017 at 05:51:17]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Thursday, 16 November 2017 at 05:55:29]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Thursday, 16 November 2017 at 05:55:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Thursday, 16 November 2017 at 05:56:01]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @AyanamiMei
+
+[Thursday, 16 November 2017 at 05:56:13]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @irdasalghul
+
+[Thursday, 16 November 2017 at 05:57:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @SticAC
+
+[Thursday, 16 November 2017 at 05:57:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @comonbruh
+
+[Thursday, 16 November 2017 at 05:57:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @emmapato19
+
+[Thursday, 16 November 2017 at 06:31:28]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 408395270
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Thursday, 16 November 2017 at 06:41:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Thursday, 16 November 2017 at 07:04:26]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @QueWiliNiQueBebeMuerto
+
+[Thursday, 16 November 2017 at 10:32:41]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 374265347
+CHAT: -1001096846712
+TEXT: @andres_aperador
+
+[Thursday, 16 November 2017 at 11:18:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 449189081
+CHAT: -1001103092170
+TEXT: @CyberpunkLover_JesusILoveYou
+
+[Thursday, 16 November 2017 at 13:02:45]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 371381757
+CHAT: -1001051899612
+TEXT: @HatCliff
+
+[Thursday, 16 November 2017 at 14:18:33]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 278601946
+CHAT: -1001055341307
+TEXT: @Criliko
+
+[Thursday, 16 November 2017 at 14:19:49]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 371381757
+CHAT: -1001051899612
+TEXT: @stilnovista
+
+[Thursday, 16 November 2017 at 14:20:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 146053459
+CHAT: -1001051899612
+TEXT: @ryuumon
+
+[Thursday, 16 November 2017 at 15:58:04]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 289606250
+CHAT: -1001108628160
+TEXT: @sofiaoconnor
+
+[Thursday, 16 November 2017 at 17:57:48]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337692639
+CHAT: -1001055341307
+TEXT: @AlifMurito
+
+[Thursday, 16 November 2017 at 17:58:07]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 337692639
+CHAT: -1001055341307
+TEXT: @loquendo
+
+[Thursday, 16 November 2017 at 19:00:37]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 371381757
+CHAT: -1001051899612
+TEXT: @Miku_39
+
+[Thursday, 16 November 2017 at 20:22:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 377674083
+CHAT: -1001133971710
+TEXT: @Luissxxx
+
+[Thursday, 16 November 2017 at 22:32:29]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:32:32]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:32:32]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:32:32]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:33:29]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Thursday, 16 November 2017 at 22:33:29]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Thursday, 16 November 2017 at 22:33:30]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Thursday, 16 November 2017 at 22:33:46]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:33:46]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:33:47]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:36:44]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /astop
+
+[Thursday, 16 November 2017 at 22:42:47]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Thursday, 16 November 2017 at 22:42:47]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Thursday, 16 November 2017 at 22:43:34]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Thursday, 16 November 2017 at 22:43:34]
+/usr/local/share/lua/5.2/redis.lua:380: redis error: ERR Background save already in progress
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /ainit
+
+[Thursday, 16 November 2017 at 22:58:21]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 486258767
+CHAT: -1001139537460
+TEXT: @Fresi29
+
+[Thursday, 16 November 2017 at 23:14:48]
+./methods.lua:431: attempt to index local 'msg' (a number value)
+
+
+FROM: 27840971
+CHAT: 27840971
+TEXT: /areset 1
+
+[Friday, 17 November 2017 at 06:31:05]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Friday, 17 November 2017 at 06:31:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 17 November 2017 at 06:42:30]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 17 November 2017 at 06:42:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 17 November 2017 at 06:42:31]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 17 November 2017 at 06:42:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 17 November 2017 at 06:42:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 17 November 2017 at 06:42:43]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 17 November 2017 at 06:42:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 17 November 2017 at 06:42:46]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 17 November 2017 at 06:46:51]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 17 November 2017 at 06:46:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 17 November 2017 at 06:46:52]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @eladriandel99
+
+[Friday, 17 November 2017 at 06:46:55]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 17 November 2017 at 06:46:55]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 17 November 2017 at 12:07:27]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 17 November 2017 at 12:07:36]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 17 November 2017 at 12:07:42]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Friday, 17 November 2017 at 12:07:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 17 November 2017 at 12:07:57]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 408395270
+CHAT: -1001103092170
+TEXT: @Spherskon
+
+[Friday, 17 November 2017 at 12:07:58]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 408395270
+CHAT: -1001103092170
+TEXT: @Bakato
+
+[Friday, 17 November 2017 at 12:07:59]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 408395270
+CHAT: -1001103092170
+TEXT: @KossNorway
+
+[Friday, 17 November 2017 at 12:08:00]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 408395270
+CHAT: -1001103092170
+TEXT: @Raulmu99
+
+[Friday, 17 November 2017 at 12:08:11]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
+[Friday, 17 November 2017 at 12:11:25]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @cool_trex
+
+[Friday, 17 November 2017 at 12:11:50]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 279601369
+CHAT: -1001103092170
+TEXT: @SaitoSeptuno
+
+[Friday, 17 November 2017 at 12:11:53]
+./methods.lua:384: type 'function' is not supported by JSON.
+
+
+FROM: 397483805
+CHAT: -1001103092170
+TEXT: @BZenza
+
